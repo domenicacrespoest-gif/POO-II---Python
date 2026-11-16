@@ -1,0 +1,5 @@
+Ana,9
+Luis,6
+Maria,8
+Pedro,5
+Sofia,10

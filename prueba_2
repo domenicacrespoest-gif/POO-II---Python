@@ -1,0 +1,2 @@
+socio = {"nombre": "Ana", "saldo": 120}
+print(socio.get("correo", "Sin correo"))
